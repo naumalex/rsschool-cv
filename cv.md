@@ -2,7 +2,7 @@
 **Alexander Naumovets**  
 Junior Frontend Developer
 
-**Contacts**
+**Contacts**  
 Email: naum_1979_alex@tut.by
 
 **Profile**  
