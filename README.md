@@ -1,1 +1,1 @@
-[rsschool-cv](https://naumalex.github.io/rsschool-cv/cv)
+[rsschool-cv](https://naumalex.github.io/rsschool-cv/)
