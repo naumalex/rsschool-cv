@@ -1,11 +1,11 @@
 ### [rsschool-cv](https://app.rs.school/)
-**Alexander Naumovets** 
+**Alexander Naumovets**  
 Junior Frontend Developer
 
 **Contacts**
 Email: naum_1979_alex@tut.by
 
-**Profile**
+**Profile**  
 Not Expirenced but driven frontend developer. I am good at math and solving challenging technical tasks. I'd like to get knowledge in JS development.
 
 **Skills**
