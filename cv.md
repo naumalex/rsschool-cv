@@ -23,7 +23,6 @@ Not Expirenced but driven frontend developer. I am good at math and solving chal
             System.out.println("Hello, World");
         }
     }
-    
-    
-    **English level**
+        
+**English level**
   C1
